@@ -1,0 +1,26 @@
+{
+"menu": {
+    "hoy": {
+        "desayuno": {
+			"primero": "Cafe con pastas",
+			"segundo": "Mini bocadillo de tortilla y bebida"
+		},
+        "almuerzo": {
+			"primero": "Sopa de pescado o Ensalada de frutos del bosque",
+			"segundo": "Butifarra con judías o Canelones",
+			"postre": "Crema catalana o Fruta del tiempo"
+		}
+    },
+    "manana": {
+        "desayuno": {
+			"primero": "Cafe con pastas",
+			"segundo": "Mini bocadillo de jamon y bebida"
+		},
+        "almuerzo": {
+			"primero": "Ensalada del día o Calamares a la romana",
+			"segundo": "Pollo asado con patatas o Paella",
+			"postre": "Flan casero o Macedònia"
+		}
+    }
+}
+}
